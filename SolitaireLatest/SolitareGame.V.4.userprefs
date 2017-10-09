@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DragAndDrop.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DragAndDrop.cs" Line="127" Column="2" />
+      <File FileName="Assets\Scripts\CardManager.cs" Line="70" Column="2" />
+      <File FileName="Assets\Scripts\Card.cs" Line="95" Column="25" />
+      <File FileName="Assets\Scripts\ReShuffle.cs" Line="27" Column="23" />
+      <File FileName="Assets\Scripts\PutPanelBehind.cs" Line="15" Column="33" />
+      <File FileName="Assets\Scripts\TextManagementScript.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\OnClickLoadSettings.cs" Line="3" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
